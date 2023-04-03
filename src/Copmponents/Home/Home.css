@@ -1,0 +1,78 @@
+.logos{
+background-color: deepskyblue;
+max-width:100%;
+height: 50px;
+margin: 20px 150px;
+}
+
+
+.aboutus{
+    margin-top: 50px;
+}
+.aboutus h2{
+    color: rgb(116, 64, 5);
+    font-weight:700;
+}
+.aboutus img{
+    border-radius: 10%;
+}
+.aboutus button{
+    width: 140px;
+    height: 40px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border: none;
+    padding :5px  16px;
+    box-sizing: content-box;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.services{
+   margin:50px ;
+}
+.services h2{
+    color: rgb(116, 64, 5);
+    font-weight:700;
+}
+
+.services img{
+    border-radius: 10%;
+}
+.services button{
+    width: 140px;
+    height: 40px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border: none;
+    padding :5px  16px;
+    box-sizing: content-box;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.whychooseus{
+    margin-bottom:50px ;
+}
+.whychooseus h2{
+    color: rgb(116, 64, 5);
+    font-weight:100px;
+
+}
+.whychooseus img{
+    border-radius: 10%;
+}
+.whychooseus button{
+    width: 140px;
+    height: 40px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border: none;
+    padding :5px  16px;
+    box-sizing: content-box;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}

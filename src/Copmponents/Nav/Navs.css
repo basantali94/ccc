@@ -1,0 +1,13 @@
+nav{
+    background-color:rgba(221, 120, 26, 0.5);
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    color: black;
+    font-weight: bold;
+
+}
+nav button{
+    color :black;
+    background-color:rgb(rgb(185, 93, 18), green, blue) ;
+}
